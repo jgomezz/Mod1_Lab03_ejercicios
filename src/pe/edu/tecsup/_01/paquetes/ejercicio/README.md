@@ -1,0 +1,1 @@
+Crear los paquetes indicados y crear instancias de las clases ProcesoControllador y Proceso en la clase Aplicacion
