@@ -1,0 +1,1 @@
+Crear 3 objetos de tipo Persona y acceder a ellos a traves de la referencia de una interfase
