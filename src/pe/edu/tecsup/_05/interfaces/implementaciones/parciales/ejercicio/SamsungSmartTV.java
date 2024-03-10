@@ -1,6 +1,6 @@
 package pe.edu.tecsup._05.interfaces.implementaciones.parciales.ejercicio;
 
-public class SamsungSmartTV 
+public abstract class SamsungSmartTV 
 implements FuncionalidadesSmartTV {
 
     @Override

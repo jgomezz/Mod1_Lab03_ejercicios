@@ -10,4 +10,5 @@ public interface FuncionalidadesSmartTV {
     
     void programarAlarmas();
 
+    void soportarIA();
 }
