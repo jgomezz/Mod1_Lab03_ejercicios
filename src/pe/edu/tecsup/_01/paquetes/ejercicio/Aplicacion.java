@@ -12,7 +12,6 @@ public class Aplicacion {
 		pc.verificarProceso();
 		
 		Proceso p = new Proceso();
-		
 		p.setCodigo("X01");
 		p.setEstado(true);
 		
