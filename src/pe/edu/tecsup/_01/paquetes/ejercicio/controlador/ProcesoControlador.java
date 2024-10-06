@@ -4,6 +4,7 @@ public class ProcesoControlador {
 	
 	public void verificarProceso() {
 		
+		System.out.println("Proceso verificado ...!");	
 	}
 
 }
